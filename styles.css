@@ -1,0 +1,17 @@
+body {
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    
+}#counter {
+    color: red;
+    font-size: 40px;
+}#hr {
+    width: 10%;
+    margin-left: 0;
+}.content {
+    width: 200px;
+}
